@@ -4,4 +4,3 @@ Description: This stack create bucket for `aws cloudformation package`.
 Resources:
   PackageBucket:
     Type: AWS::S3::Bucket
-
